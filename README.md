@@ -1,3 +1,3 @@
 # DevOps
 
-Learnin DevOps
+Learning DevOps
